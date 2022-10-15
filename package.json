@@ -15,7 +15,7 @@
   "author": "Olexandr Sliusar <olexandr.sliusar@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Olexandr-Sliusar/goit-js-hw-08/issues"
+    "url": "https://github.com/Olexandr-Sliusar/goit-js-hw-09/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
